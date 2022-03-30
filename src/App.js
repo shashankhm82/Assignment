@@ -6,7 +6,7 @@ import Login from "./components/Login";
 import Search from "./components/products/Search";
 import AddProduct from "./components/products/AddProduct";
 import ListProducts from "./components/products/ListProducts";
-
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
     <Router>
