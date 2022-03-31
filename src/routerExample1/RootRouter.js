@@ -14,7 +14,7 @@ function RootRouter() {
             <Link class="nav_link" to="/HomePage">HomePage</Link>
             <Link class="nav_link" to="/AboutPage">AboutPage</Link>
             <Link class="nav_link" to="/ContactUs">ContactUs</Link>
-             <input id="search_bar" type="text" name=" " placeholder="search for products,brands and more"/>
+             <input id="search_bar" type="text" name=" " placeholder="search for products"/>
         </nav>
         
         <Routes>
