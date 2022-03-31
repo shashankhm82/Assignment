@@ -16,10 +16,12 @@ ReactDOM.render(
    <Component1/> 
    <Example2/> 
     <Example3/>
-   <App />  
+    
   <Header/>
-  <Navgation/>*/}
-  <RootRouter/>
+  <App />
+<RootRouter/>*/}
+<Navgation/>
+ 
   </React.StrictMode>,
   document.getElementById('root')
 );
