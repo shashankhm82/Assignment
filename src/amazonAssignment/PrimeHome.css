@@ -1,0 +1,30 @@
+*{
+    margin:0px;
+    padding: 0px;
+}
+.logo{
+    width: 20%;
+    height:50px;
+    margin-left: 38%;
+    
+}
+.nav_bar{
+    width: 100%;
+    border-bottom:1px solid blue;
+    padding:5px;
+    background-color: blue;
+
+}
+.nav_link{
+   margin-left: 250px;
+   padding: 5px;
+   display: inline-block;
+   color: red;
+}
+.nav_link:hover{
+    color: black;
+}
+#search_bar{
+    margin-left: 100px;
+    width: 300px;
+}

@@ -9,18 +9,23 @@ import RootRouter from './routerExample1/RootRouter';
 import Example3 from './useContextHook/Example3';
 import Header from './routerExample2/Header';
 import Navgation from './routerExample4/Navgation';
+import PrimeHome from './amazonAssignment/PrimeHome';
+
 
 ReactDOM.render(
   <React.StrictMode>
-   {/*  
+   {/* <App /> 
    <Component1/> 
    <Example2/> 
     <Example3/>
-    
-  <Header/>
-  <App />
-<RootRouter/>*/}
-<Navgation/>
+  <Navgation/>
+  <Header/> 
+<RootRouter/>
+
+*/}
+<PrimeHome/>
+
+
  
   </React.StrictMode>,
   document.getElementById('root')
