@@ -10,7 +10,7 @@ import Example3 from './useContextHook/Example3';
 import Header from './routerExample2/Header';
 import Navgation from './routerExample4/Navgation';
 import PrimeHome from './amazonAssignment/PrimeHome';
-
+import DiscriptionPage from './amazonAssignment/Discription';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -21,9 +21,10 @@ ReactDOM.render(
   <Navgation/>
   <Header/> 
 <RootRouter/>
-
-*/}
 <PrimeHome/>
+*/}
+
+<DiscriptionPage/>
 
 
  
